@@ -1,1 +1,2 @@
-calculator- https://shubham-kumar2005.github.io/calculator/
+I created a calculator using HTML, CSS and JavaScript
+calculator-  https://shub-ways.github.io/calculator/
